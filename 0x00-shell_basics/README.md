@@ -1,1 +1,1 @@
-Display the current directory contents in a long format
+my_first_directory
