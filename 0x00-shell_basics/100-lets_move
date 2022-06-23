@@ -1,2 +1,2 @@
 #!/bin/bash
-mv src/*[A-Z]* tmp/u
+mv /tmp/sym$ ls -la /tmp/u
