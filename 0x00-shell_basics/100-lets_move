@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/sym$ ls -la
+mv [[:upper:]]* /tmp/u
