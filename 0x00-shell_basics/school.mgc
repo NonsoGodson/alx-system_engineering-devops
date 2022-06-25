@@ -1,3 +1,3 @@
 #!/bin/bash
-echo '0 string SCHOOL School data >school.mgc
-echo :!mime School >>school.mgc
+0 string SCHOOL School data
+:!mime School
