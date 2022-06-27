@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (Ôo)' | grep (Ôo)'
+echo "(Ôo)'" | grep (Ôo)'
