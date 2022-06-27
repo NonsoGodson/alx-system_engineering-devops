@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I should have studied" | grep studied
+echo "(Ôo)'
