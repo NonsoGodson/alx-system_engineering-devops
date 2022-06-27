@@ -1,2 +1,2 @@
 #!/bin/bash
-identify - type f '%n %i\n' -- *.gif
+find . -type f -name \*.gif
