@@ -42,5 +42,5 @@ frontend  web-frontend
 backend web-backend
         balance roundrobin
         option forwardfor
-        server 65918-web-01 34.203.33.229:80 check
-        server 65918-web-02 54.237.66.163:80 check
+        server 65918-web-01 35.153.52.70 check
+        server 65918-web-02 100.25.111.94 check
